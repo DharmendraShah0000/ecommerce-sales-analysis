@@ -35,3 +35,20 @@ In Progress
 
 ## Author
 Data Analyst Portfolio Project
+
+## 📊 Project Visualizations
+
+### 1. Category Sales and Profit Analysis
+![Category Sales and Profit](images/category_sales_profit.png)
+
+### 2. Monthly Sales Trend
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+### 3. Regional Profitability
+![Regional Profitability](images/regional_profitability.png)
+
+### 4. SHAP Beeswarm Analysis
+![SHAP Beeswarm](images/shap_beeswarm_loss_predictions.png)
+
+### 5. SHAP Global Feature Importance
+![SHAP Feature Importance](images/shap_feature_importance.png)
